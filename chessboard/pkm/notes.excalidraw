@@ -1,0 +1,276 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw-jetbrains-plugin",
+  "elements": [
+    {
+      "id": "kWIbEYv9BoeHB8kQTsqg1",
+      "type": "ellipse",
+      "x": 512,
+      "y": 401,
+      "width": 218,
+      "height": 153,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 308387233,
+      "version": 29,
+      "versionNonce": 299957761,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "KGnugFcOcTAcL9dw4T6uS"
+        },
+        {
+          "id": "vjK9VpJ37PhO5D_FNa3Yy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1735302500148,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "KGnugFcOcTAcL9dw4T6uS",
+      "type": "text",
+      "x": 569.5713798325999,
+      "y": 454.90633123922913,
+      "width": 102.70796203613281,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1505220193,
+      "version": 10,
+      "versionNonce": 856545167,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1735302485220,
+      "link": null,
+      "locked": false,
+      "text": "Notes",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 32,
+      "containerId": "kWIbEYv9BoeHB8kQTsqg1",
+      "originalText": "Notes",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IbZbJv6HXxahbAULiI4Kr",
+      "type": "text",
+      "x": 805,
+      "y": 284,
+      "width": 55.74794006347656,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1523193871,
+      "version": 24,
+      "versionNonce": 973142049,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "vjK9VpJ37PhO5D_FNa3Yy",
+          "type": "arrow"
+        },
+        {
+          "id": "syYVKM6L3PRS2F7OnUATv",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1735302503493,
+      "link": null,
+      "locked": false,
+      "text": "Linki",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 25,
+      "containerId": null,
+      "originalText": "Linki",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "SxGappI8ViWoohcsHGvwF",
+      "type": "text",
+      "x": 985,
+      "y": 221.5,
+      "width": 723.1836547851562,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1137713487,
+      "version": 39,
+      "versionNonce": 386462991,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "syYVKM6L3PRS2F7OnUATv",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1735302505430,
+      "link": "https://stackoverflow.com/questions/23449932/javafx-resize-canvas-when-screen-is-resized",
+      "locked": false,
+      "text": "https://stackoverflow.com/questions/23449932/javafx-resize-canvas-when-screen-is-resized",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 14,
+      "containerId": null,
+      "originalText": "https://stackoverflow.com/questions/23449932/javafx-resize-canvas-when-screen-is-resized",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "vjK9VpJ37PhO5D_FNa3Yy",
+      "type": "arrow",
+      "x": 705.7454628195636,
+      "y": 407.3040409150317,
+      "width": 91.93775844038021,
+      "height": 83.0633588154322,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1118741071,
+      "version": 61,
+      "versionNonce": 1097343969,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1735302503494,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          91.93775844038021,
+          -83.0633588154322
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "kWIbEYv9BoeHB8kQTsqg1",
+        "focus": 0.042427228559869266,
+        "gap": 17.842266533483823
+      },
+      "endBinding": {
+        "elementId": "IbZbJv6HXxahbAULiI4Kr",
+        "focus": 0.21210208127175634,
+        "gap": 9
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "syYVKM6L3PRS2F7OnUATv",
+      "type": "arrow",
+      "x": 870.47422789972,
+      "y": 281.67635524949605,
+      "width": 106.52577210028005,
+      "height": 48.16341651152641,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 505303457,
+      "version": 104,
+      "versionNonce": 170834881,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1735302504328,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          106.52577210028005,
+          -48.16341651152641
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "IbZbJv6HXxahbAULiI4Kr",
+        "focus": -0.07846298386240212,
+        "gap": 10
+      },
+      "endBinding": {
+        "elementId": "SxGappI8ViWoohcsHGvwF",
+        "focus": 0.9497555051360965,
+        "gap": 8
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
